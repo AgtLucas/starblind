@@ -36,6 +36,7 @@
     "webpack": "^1.9.10"
   },
   "dependencies": {
+    "es6-promise": "^2.3.0",
     "flux": "^2.0.3",
     "keymirror": "^0.1.1",
     "object-assign": "^3.0.0",
