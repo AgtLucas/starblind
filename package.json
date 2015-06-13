@@ -33,5 +33,11 @@
     "react-hot-loader": "^1.2.7",
     "uglify-loader": "^1.2.0",
     "webpack": "^1.9.10"
+  },
+  "dependencies": {
+    "flux": "^2.0.3",
+    "keymirror": "^0.1.1",
+    "object-assign": "^3.0.0",
+    "react": "^0.13.3"
   }
 }
