@@ -1,0 +1,24 @@
+{
+  "name": "starblind",
+  "version": "1.0.0",
+  "description": "Just a Flux test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgtLucas/starblind.git"
+  },
+  "keywords": [
+    "Flux",
+    "React",
+    "ES6"
+  ],
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/starblind/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/starblind#readme"
+}
