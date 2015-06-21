@@ -19,4 +19,4 @@ gulp.task('watch', function() {
   gulp.watch('app/assets/**/*.*', ['default']);
 });
 
-gulp.task('default', ['js']);
+gulp.task('default', ['js', 'sass']);
